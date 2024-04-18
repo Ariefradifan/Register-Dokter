@@ -22,5 +22,9 @@
   "homepage": "https://github.com/Ariefradifan/Register-Dokter#readme",
   "dependencies": {
     "cypress": "^13.7.3"
+  },
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress-xpath": "^2.0.1"
   }
 }

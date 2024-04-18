@@ -3,6 +3,7 @@ module.exports = defineConfig({
     e2e: {
         specPattern : "cypress/support/e2e",
         supportFile : false,
+        import      :'cypress-xpath'
     }
     
 })
