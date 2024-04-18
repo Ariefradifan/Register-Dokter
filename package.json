@@ -1,22 +1,26 @@
 {
   "name": "registerspecialist_cypress",
   "version": "1.0.0",
-  "description": "Register dokter",
+  "description": "register doktor online ",
   "main": "index.js",
   "scripts": {
-    "test": "--cypress"
+    "test": "Ui testing "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariefradifan/Register-Dokter.git"
   },
   "keywords": [
-    "Register",
-    "specialist"
+    "ui",
+    "testing"
   ],
-  "author": "arief radifan",
+  "author": "Arief Radifan",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^13.1.0",
-    "cypress-file-upload": "^5.0.8"
+  "bugs": {
+    "url": "https://github.com/Ariefradifan/Register-Dokter/issues"
   },
-  "devDependencies": {
-    "@cypress/xpath": "^2.0.3"
+  "homepage": "https://github.com/Ariefradifan/Register-Dokter#readme",
+  "dependencies": {
+    "cypress": "^13.7.3"
   }
 }
